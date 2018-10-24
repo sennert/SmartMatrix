@@ -1,4 +1,5 @@
 /*
+ * TEST
  * Based on SpectrumAnalyzerBasic by Paul Stoffregen included in the Teensy Audio Library
  * Modified by Jason Coon for the SmartMatrix Library
  * Requires Teensyduino 1.20 or higher and the Teensy Audio Library
